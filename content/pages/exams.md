@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Midterm and Final Exams
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
